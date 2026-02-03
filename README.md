@@ -59,16 +59,17 @@ A sleek, mobile-first portfolio showcasing projects, skills, and professional ba
 
 ## 📊 GitHub Stats  
 
-![Lakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NVLakshmi25&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nvlakshmi25&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NVLakshmi25&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nvlakshmi25&layout=compact&theme=radical) 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=NVLakshmi25&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=nvlakshmi25&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NVLakshmi25&theme=radical&no-frame=true&margin-w=10)
+ 
+ ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nvlakshmi25&theme=radical&no-frame=true)
 
 ---
 
