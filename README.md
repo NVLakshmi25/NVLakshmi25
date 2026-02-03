@@ -40,11 +40,11 @@ A sleek, mobile-first portfolio showcasing projects, skills, and background. Bui
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NVLakshmi25&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NVLakshmi25&layout=compact)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NVLakshmi25&repo=REPO_NAME)](https://github.com/NVLakshmi25/REPO_NAME)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NVLakshmi25&theme=dracula&show_icons=true)
+![Lakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NVLakshmi25&show_icons=true&theme=radical)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NVLakshmi25&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=NVLakshmi25&theme=radical)
 
 ---
 
