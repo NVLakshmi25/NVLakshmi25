@@ -24,8 +24,9 @@
 A fully responsive video platform built with React.js, Tailwind CSS, and YouTube Data API. 
 A responsive video streaming platform built with React.js, Tailwind CSS, and YouTube Data API. Features include real-time video search, dynamic rendering, API integration, and Vercel deployment.
 **Highlights:** Real-time video search, dynamic rendering, API integration, deployed on Vercel.  
-🔗 [Live Demo]: (https://video-stream-master-sage.vercel.app/)  
-💻 [GitHub Repository]: (https://github.com/venky-webdev-pro/VideoStream-master)
+🔗 [Live Demo]: ( https://video-stream-master-update.vercel.app/  )
+💻[GitHub Repo]:( https://github.com/NVLakshmi25/VideoStream-master-update  ) 
+
 
 ---
 
@@ -33,16 +34,21 @@ A responsive video streaming platform built with React.js, Tailwind CSS, and You
 Responsive, mobile-first portfolio showcasing projects, skills, and background.  
 A sleek, mobile-first portfolio showcasing projects, skills, and background. Built with React.js, Tailwind CSS, and Vite for optimized performance and seamless UI/UX.
 **Highlights:** Modular design, smooth navigation, optimized performance, SEO-friendly deployment.  
-🔗 [Live Demo]: (https://lakshmi-portfolio-react.vercel.app/)  
-💻 [GitHub Repository]: (https://github.com/venky-webdev-pro/Lakshmi_Portfolio_react)
+🔗 [Live Demo]:   ( https://lakshmi-portfolio-react.vercel.app/ )
+💻[GitHub Repository] : (  https://github.com/NVLakshmi25/Lakshmi_Portfolio_react ) 
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=venky-webdev-pro&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venky-webdev-pro&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NVLakshmi25&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NVLakshmi25&layout=compact)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NVLakshmi25&repo=REPO_NAME)](https://github.com/NVLakshmi25/REPO_NAME)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NVLakshmi25&theme=dracula&show_icons=true)
+
 
 ---
 
 📫 **Connect with Me**  
-[LinkedIn](https://www.linkedin.com/in/venkatalakshmi-nimmana-linpro) | [Portfolio](https://lakshmi-portfolio-react.vercel.app/)  
+[LinkedIn]([(https://www.linkedin.com/in/venkatalakshmi-nimmana/ ) ]|
+[Portfolio]([https://lakshmi-portfolio-react.vercel.app/])  
+
