@@ -24,8 +24,8 @@
 A fully responsive video platform built with React.js, Tailwind CSS, and YouTube Data API. 
 A responsive video streaming platform built with React.js, Tailwind CSS, and YouTube Data API. Features include real-time video search, dynamic rendering, API integration, and Vercel deployment.
 **Highlights:** Real-time video search, dynamic rendering, API integration, deployed on Vercel.  
-🔗 [Live Demo]: ( https://video-stream-master-update.vercel.app/  )
-💻[GitHub Repo]:( https://github.com/NVLakshmi25/VideoStream-master-update  ) 
+🔗 [Live Demo]:( https://video-stream-master-update.vercel.app/)
+💻[GitHub Repo]:( https://github.com/NVLakshmi25/VideoStream-master-update) 
 
 
 ---
@@ -34,8 +34,8 @@ A responsive video streaming platform built with React.js, Tailwind CSS, and You
 Responsive, mobile-first portfolio showcasing projects, skills, and background.  
 A sleek, mobile-first portfolio showcasing projects, skills, and background. Built with React.js, Tailwind CSS, and Vite for optimized performance and seamless UI/UX.
 **Highlights:** Modular design, smooth navigation, optimized performance, SEO-friendly deployment.  
-🔗 [Live Demo]:   ( https://lakshmi-portfolio-react.vercel.app/ )
-💻[GitHub Repository] : (  https://github.com/NVLakshmi25/Lakshmi_Portfolio_react ) 
+🔗 [Live Demo]:(https://lakshmi-portfolio-react.vercel.app/)
+💻[GitHub Repository] :( https://github.com/NVLakshmi25/Lakshmi_Portfolio_react) 
 
 ---
 
