@@ -1,45 +1,64 @@
-# 👋 Hi, I'm Nimmana Venkatalakshmi
+# 👋 Hi, I'm Nimmana Venkatalakshmi  
 
-🚀 **Frontend Developer | Passionate about building responsive, user-centric web applications**  
+🚀 **Frontend Developer | Passionate about building responsive, user-centric web applications**
 
-💻 **Tech Stack:**  
+💻 **Tech Stack**  
 - **Languages:** HTML5, CSS3, JavaScript (ES6+)  
-- **Frameworks & Libraries:** React.js (Vite, npm), Redux (basic), Tailwind CSS, Bootstrap  
+- **Frameworks & Libraries:** React.js (Vite, npm), Redux (Basic), Tailwind CSS, Bootstrap  
 - **Tools & Platforms:** VS Code, Chrome DevTools, Git, GitHub  
 - **Deployment:** Vercel, GitHub Pages  
 
 ---
 
-## 🔹 About Me
-- 🎓 B.Tech in Electronics and Communication Engineering (2020-2024)  
-- 💼 6 months experience as **Junior Web Developer** at *Hirotoind Technologies*  
-- 🌱 Always learning new frontend technologies and improving UI/UX skills  
-- 📌 Focused on **scalable architecture, performance optimization, and clean design**  
+## 🔹 About Me  
+- 🎓 B.Tech in **Electronics and Communication Engineering** (2020–2024)  
+- 💼 **6 months experience** as a *Junior Web Developer* at **Hirotoind Technologies**  
+- 🌱 Passionate about clean UI, performance, and scalable frontend architecture  
+- 📌 Always improving **React patterns & modern JavaScript**
 
 ---
 
-## 📂 Featured Projects
-
-### 1. **Video Streaming Web App**
-A fully responsive video platform built with React.js, Tailwind CSS, and YouTube Data API. 
-A responsive video streaming platform built with React.js, Tailwind CSS, and YouTube Data API. Features include real-time video search, dynamic rendering, API integration, and Vercel deployment.
-**Highlights:** Real-time video search, dynamic rendering, API integration, deployed on Vercel.  
-🔗 [Live Demo]:( https://video-stream-master-update.vercel.app/)
-💻[GitHub Repo]:( https://github.com/NVLakshmi25/VideoStream-master-update) 
-
+## 🎯 Currently Learning  
+- Advanced **React.js** (Performance optimization, hooks patterns)  
+- **Redux Toolkit** & state management  
+- **TypeScript** fundamentals  
+- **Frontend system design**  
+- **Web performance optimization**
 
 ---
 
-### 2. **Personal Portfolio Website**
-Responsive, mobile-first portfolio showcasing projects, skills, and background.  
-A sleek, mobile-first portfolio showcasing projects, skills, and background. Built with React.js, Tailwind CSS, and Vite for optimized performance and seamless UI/UX.
-**Highlights:** Modular design, smooth navigation, optimized performance, SEO-friendly deployment.  
-🔗 [Live Demo]:(https://lakshmi-portfolio-react.vercel.app/)
-💻[GitHub Repository] :( https://github.com/NVLakshmi25/Lakshmi_Portfolio_react) 
+## 📂 Featured Projects  
+
+### 🎬 Video Streaming Web App  
+A fully responsive video streaming platform built using **React.js, Tailwind CSS, and YouTube Data API**.  
+
+**Highlights:**  
+- 🔍 Real-time video search  
+- ⚡ Dynamic rendering  
+- 🔗 API integration  
+- 🚀 Deployed on Vercel  
+
+🔗 **Live Demo:** https://video-stream-master-update.vercel.app/  
+💻 **GitHub Repo:** https://github.com/NVLakshmi25/VideoStream-master-update  
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Personal Portfolio Website  
+A sleek, mobile-first portfolio showcasing projects, skills, and professional background. Built using **React.js, Tailwind CSS, and Vite**.
+
+**Highlights:**  
+- 📱 Fully responsive  
+- 🧩 Modular components  
+- ⚡ Fast performance  
+- 🎨 Clean UI/UX  
+
+🔗 **Live Demo:** https://lakshmi-portfolio-react.vercel.app/  
+💻 **GitHub Repo:** https://github.com/NVLakshmi25/Lakshmi_Portfolio_react  
+
+---
+
+## 📊 GitHub Stats  
+
 ![Lakshmi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NVLakshmi25&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NVLakshmi25&layout=compact&theme=radical)
@@ -48,7 +67,16 @@ A sleek, mobile-first portfolio showcasing projects, skills, and background. Bui
 
 ---
 
-📫 **Connect with Me**  
-[LinkedIn]([(https://www.linkedin.com/in/venkatalakshmi-nimmana/ ) ]|
-[Portfolio]([https://lakshmi-portfolio-react.vercel.app/])  
+## 🏆 GitHub Trophies  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NVLakshmi25&theme=radical&no-frame=true&margin-w=10)
 
+---
+
+## 👀 Profile Views  
+![Profile Views](https://komarev.com/ghpvc/?username=NVLakshmi25&label=Profile%20views&color=brightgreen&style=flat)
+
+---
+
+## 📫 Connect with Me  
+🔗 **LinkedIn:** https://www.linkedin.com/in/venkatalakshmi-nimmana/  
+🌐 **Portfolio:** https://lakshmi-portfolio-react.vercel.app/  
